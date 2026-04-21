@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Dynamic typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Rapha%C3%ABl;Epitech+Student+%7C+Nice%2C+France;C+%2F+C%2B%2B+%2F+Python+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+Je+m'appelle+Rapha%C3%ABl;Etudiant+d'Epitech+%7C+Nice%2C+France;C+%2F+C%2B%2B+%2F+Rust+Python+Developer" alt="Typing SVG" />
 
 <br/>
 
 <!-- Short bio -->
 <p align="center">
   <samp>
-    Passionate engineering student at <strong>Epitech Nice</strong> · Building things with C, C++ & Python <br/>
-    I enjoy low-level programming, clean code, and learning by doing.
+    Un étudiant passioné de Code à <strong>Epitech Nice</strong> · Vive le C, C++, C#, Rust <br/>
+    J'adore apprendre de nouvelle stack, repousser mes limites et la programmation bas niveau.
   </samp>
 </p>
 
@@ -36,11 +36,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Student at **Epitech Nice** — learning the hard way (and loving it)
-- 💻 Mostly writing **C** and **C++**, experimenting with **Python** and **Lua**
-- 🛠 Fan of Emacs, terminal workflows, and Linux
-- 🌱 Currently improving my skills in systems programming & algorithms
-- 💬 Ask me about anything — I'm always up for a chat!
+- 🎓 Etudiant et Ambassadeur à **Epitech Nice** —  Promotion 2029 
+- 💻 Code en **C** and **C++**, mais je m'experience aussi en **Rust**, **Lua** et bien d'autres
+- 🛠 Grand fan de Linux, curieux et inventif.
+- 🌱 J'améliore actuellement mes compétences en programmation système et en algorithmes
+- 💬 N'hésite pas à me poser des questions — je suis toujours partant pour discuter !
 
 ---
 
@@ -50,9 +50,12 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔧 **[Project 1]** | *Brief description of what it does* | C / Bash |
-| 🎮 **[Project 2]** | *Brief description of what it does* | C++ |
-| 🐍 **[Project 3]** | *Brief description of what it does* | Python |
+| 🔧 **42sh** | *Création d'un interpréteur de commande Bash complet* | C |
+| 🎮 **Wolf 3D** | *Développement d'un jeu en Raycasting uniquement en C et CSFML* | C |
+| 🗡️ **EpiSaber** | *Recréation du Jeu BeatSaber sur un casque Meta Quest 3* | C# / VR |
+| 🕹️ **Arcade** | *Multiple mini jeu avec la possibilité de changer d'interface graphique entre QT5, SDL2, NCurses* | C++ |
+| 💻 **MyTeams** | *Outils de communication à la manière de Teams uniquement dans le Terminal* | C++ |
+| 👾 **Cartridge** | *Création de Jeux gameboy avec limitation technique* | Assembler |
 
 <!-- 💡 Replace the placeholders above with your real projects! -->
 
@@ -88,9 +91,13 @@
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="36" alt="Lua"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="36" alt="Rust"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/assemblyscript/007AAC" height="36" alt="Asm"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React"/>
 
 <br/><br/>
 
@@ -105,6 +112,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="Bash"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="36" alt="Ubuntu"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/archlinux/1793D1" height="36" alt="Arch Linux"/>
 
 </div>
 
